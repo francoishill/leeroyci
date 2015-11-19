@@ -7,7 +7,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/gorilla/schema"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 // userAdminForm is the form used by admins to edit users.

@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/fallenhitokiri/leeroyci/database"
-	"github.com/fallenhitokiri/leeroyci/runner"
-	"github.com/fallenhitokiri/leeroyci/web"
-	"github.com/fallenhitokiri/leeroyci/websocket"
+	"github.com/francoishill/leeroyci/database"
+	"github.com/francoishill/leeroyci/runner"
+	"github.com/francoishill/leeroyci/web"
+	"github.com/francoishill/leeroyci/websocket"
 )
 
 func main() {

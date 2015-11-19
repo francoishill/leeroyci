@@ -3,7 +3,7 @@ package web
 import (
 	"net/http"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 // middlewareAccesskey tries to get a user by the access key in the

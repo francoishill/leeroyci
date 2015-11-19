@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 func TestBuildHipChat(t *testing.T) {

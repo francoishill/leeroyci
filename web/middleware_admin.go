@@ -3,7 +3,7 @@ package web
 import (
 	"net/http"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 // middlewareAdmin checks if the authenticated user is an admin. If this is not

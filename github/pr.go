@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 type pullRequestCallback struct {

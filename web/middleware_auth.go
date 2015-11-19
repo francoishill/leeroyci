@@ -5,7 +5,7 @@ import (
 
 	"github.com/gorilla/context"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 // middlewareAuth tries to get a session key and authenticate a user adding

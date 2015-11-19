@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 func TestMain(m *testing.M) {

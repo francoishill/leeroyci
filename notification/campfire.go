@@ -9,7 +9,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 // Payload Campfire expects to be POSTed to their API.

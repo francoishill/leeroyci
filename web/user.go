@@ -7,7 +7,7 @@ import (
 	"github.com/gorilla/context"
 	"github.com/gorilla/schema"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 // userSettingsForm is the form used by users to edit their account. Every

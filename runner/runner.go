@@ -5,8 +5,8 @@ import (
 	"log"
 	"os/exec"
 
-	"github.com/fallenhitokiri/leeroyci/database"
-	"github.com/fallenhitokiri/leeroyci/notification"
+	"github.com/francoishill/leeroyci/database"
+	"github.com/francoishill/leeroyci/notification"
 )
 
 // QueueJob represents a job put on the runner queue. The status channel is

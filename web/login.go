@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/schema"
 
-	"github.com/fallenhitokiri/leeroyci/database"
+	"github.com/francoishill/leeroyci/database"
 )
 
 type loginForm struct {
